@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+{{content}}
+
+{% if page.date %}
+    <p><small>Last Modified: {{ page.date | date: '%B %d, %Y' }}</small></p>
+{% endif %}

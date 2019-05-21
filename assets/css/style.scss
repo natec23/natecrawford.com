@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  h1::before {content: "";}
+  h1 a {color: $conifer;}
+  nav { text-align: right;}
+}
