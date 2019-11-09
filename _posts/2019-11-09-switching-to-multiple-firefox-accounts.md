@@ -1,10 +1,11 @@
 ---
 layout: post
 author: "Nate Crawford"
-title: "Switching to Multiple Firefox Accounts"
-date: 2019-11-09 08:30:00 -0500
+title:  "Switching to Multiple Firefox Accounts"
+date:   2019-11-09 08:30:00 -0500
+update: 2019-11-09 08:50:00 -0500
 categories: [blog]
-tags: [firefox, lastpass, setup]-
+tags: [firefox, lastpass, setup]
 ---
 For the longest time I used the same browser for personal and work use. I think part of that comes from working from home: sometimes I’m using my browser for work and other times for personal use. I've always had multiple browsers installed, but typically was one browser for main use and others simply for testing.
 
