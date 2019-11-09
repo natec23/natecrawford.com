@@ -2,7 +2,7 @@
 layout: post
 author: "Nate Crawford"
 title: "Switching to Multiple Firefox Accounts"
-date: 2019-11-00 08:30:00 -0500
+date: 2019-11-09 08:30:00 -0500
 categories: blog
 tags: [firefox, lastpass, setup]-
 ---
