@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Nate Crawford"
-title: "Testing If an Exception Was Reported, but Not Encountered"
+title: "Testing If an Exception Was Caught and Reported"
 date: 2022-11-19 10:30:00 -0500
 category: development
 tags: [laravel]
