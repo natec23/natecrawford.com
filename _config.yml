@@ -29,7 +29,7 @@ twitter_username: nate23
 github_username: natec23
 mastodon:
   - { username: natec23, instance: phpc.social }
-
+rss: rss
 # Build settings
 theme: minima
 plugins:
